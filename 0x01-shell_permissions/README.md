@@ -1,1 +1,0 @@
-shell permission for betty 
