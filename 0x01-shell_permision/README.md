@@ -1,0 +1,1 @@
+shell permsion for betty 
